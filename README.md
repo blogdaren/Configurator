@@ -1,10 +1,10 @@
 # Configurator
 
 ## What is it
-A simple & common configurator for PHP
+A elegant & common configurator for PHP
 
-## Logger是什么
-一个简洁的、通用的PHP应用配置工具
+## Configurator是什么
+一个优雅的、通用的PHP应用配置工具
 
 ## Installation
 ```
