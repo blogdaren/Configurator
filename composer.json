@@ -1,0 +1,30 @@
+{
+    "name": "blogdaren/configurator",
+    "type": "library",
+    "keywords": [
+        "configurator"
+    ],
+    "homepage": "http://www.blogdaren.com",
+    "license": "MIT",
+    "description": "A simple & common configurator for PHP",
+    "authors": [
+        {
+            "name": "blogdaren",
+            "email": "blogdaren@163.com",
+            "homepage": "http://www.blogdaren.com",
+            "role": "developer"
+        }
+    ],
+    "support": {
+    },
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Configurator\\": "./src"
+        }
+    }
+}
