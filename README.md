@@ -136,5 +136,5 @@ print_r(Configurator::get('/'));
 
 ## Related links and thanks
 
-* [http://www.blogdaren.com](http://www.blogdaren.com)
+* [http://www.phpcreeper.com](http://www.phpcreeper.com)
 

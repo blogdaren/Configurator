@@ -3,7 +3,7 @@
  * @script   Configurator.php
  * @brief    This file is part of Configurator
  * @author   blogdaren<blogdaren@163.com>
- * @link     http://www.blogdaren.com
+ * @link     http://www.phpcreeper.com
  * @version  1.0.0
  * @modify   2019-04-01
  */
